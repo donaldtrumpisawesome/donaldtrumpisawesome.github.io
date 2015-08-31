@@ -1,5 +1,5 @@
 .header-container {
-    background-image: url("/china/img/trump.jpg"),
+    background-image: url("/img/trump.jpg"),
         linear-gradient(
             to bottom,
             rgba(230, 74, 25, 0),
@@ -14,7 +14,7 @@
 }
 
 .footer-container {
-    background-image: url("/china/img/trump.jpg"),
+    background-image: url("/img/trump.jpg"),
         linear-gradient(
             to bottom,
             rgba(230, 74, 25, 0),
